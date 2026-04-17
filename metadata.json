@@ -1,0 +1,6 @@
+{
+  "name": "InsightHR: Performance Predictor",
+  "description": "An advanced analytics dashboard for predicting employee performance using machine learning classification, helping HR teams identify high performers and training needs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
